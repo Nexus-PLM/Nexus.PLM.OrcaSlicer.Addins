@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Nexus.PLM.OrcaSlicer.Translators/Nexus.PLM.OrcaSlicer.Translators.csproj" />
+  <Project Path="Nexus.PLM.OrcaSlicer.Translators.Tests/Nexus.PLM.OrcaSlicer.Translators.Tests.csproj" />
+</Solution>
